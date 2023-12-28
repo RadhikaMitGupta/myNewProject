@@ -1,0 +1,38 @@
+.header {
+  background-color: thistle;
+  padding-bottom: 80px;
+  text-align: center;
+  padding-top: 20px;
+}
+ 
+.input {
+  height: 50px;
+  width: 400px;
+  margin-bottom: 40px;
+  align-items: center;
+}
+.btn {
+  height: 55px;
+  width: 100px;
+  margin-bottom: 40px;
+  align-items: center;
+}
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.div {
+   height: 100px;
+   width: 30%;
+   background-color: bisque;
+   border: 1px;
+   text-align: center;
+   padding-bottom: 100;
+}
